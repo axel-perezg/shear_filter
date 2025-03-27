@@ -19,7 +19,7 @@ La interfaz gráfica de usuario, conocida también como GUI (del inglés graphic
 
 
 # Metodos
-En el plano $\R^2$, un mapeo horizontal (o mapeo paralelo al eje $x$) es una funcion que toma un punto cualquiera con coordenadas $(x,y)$ al punto $(x+my, y)$, donde $m$ es un parámetro fijo denominado **factor de corte**. Algo similar sucede al realizar un mapeo vertical.
+En el plano $\mathbb{R}^2$, un mapeo horizontal (o mapeo paralelo al eje $x$) es una funcion que toma un punto cualquiera con coordenadas $(x,y)$ al punto $(x+my, y)$, donde $m$ es un parámetro fijo denominado **factor de corte**. Algo similar sucede al realizar un mapeo vertical.
 
 Las líneas rectas paralelas al eje $x$ permanecen en su sitio, mientras que todas las demás líneas giran, en variados ángulos, sobre el punto donde cruzan el eje $x$. Las líneas verticales, en particular, se convierten en líneas oblicuas con pendiente $1/m$. Por lo tanto,
 $$m = \cot(\varphi).$$
